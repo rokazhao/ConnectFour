@@ -1,0 +1,1 @@
+Connect Four game made in CSE 123 with the prompt of an 'Abstract Strategy Game.' Players aim to align four tokens in a row—vertically, horizontally, or diagonally—while also having the option to remove a token instead of placing one, introducing an additional layer of strategy.
